@@ -33,5 +33,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [How does Shared License system work?](https://github.com/ZedLicense/ZedLicense-System#zedlicense-system)
 - [Wiki-ZedLicense-System](https://github.com/ZedLicense/ZedLicense-System/wiki)
+- [Frequently Asked Questions](https://github.com/ZedLicense/ZedLicense-System/discussions/1)
 <!-- BLOG-POST-LIST:END -->
 
